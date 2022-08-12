@@ -28,14 +28,6 @@ An interactive menu where you can choose and order your favourite drinks üç∫üç
 ![Docker](https://raw.githubusercontent.com/lgcolella/cocktail-menu/master/.repository/docker.png "Docker")
 
 
-# Getting started
-
-To start the application run the following commands:
-
-```sh
-# Clone this repository
-git clone https://github.com/lgcolella/cocktail-menu.git
-
 # Navigate into the project folder
 cd cocktail-menu
 
@@ -90,7 +82,3 @@ composer dump-autoload
 # Run the Artisan Tinker shell
 php artisan tinker
 ```
-
-# Credits
-
-The application uses https://www.thecocktaildb.com/ as API to retrieve data about drinks.
